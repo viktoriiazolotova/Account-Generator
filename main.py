@@ -1,4 +1,4 @@
-# version #3 - enhacements
+
 import random
 # STEP 1 - list of student names
 student_names = []
